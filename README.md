@@ -4,7 +4,7 @@ PowerShell script que configura automáticamente las vistas de carpetas en Windo
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 ### ✨ Características
 
@@ -18,7 +18,7 @@ PowerShell script que configura automáticamente las vistas de carpetas en Windo
 ### 🚀 Uso
 
 1. Editar `$rootPath` en el script con la ruta deseada
-2. Ejecutar con PowerShell: `.\configurar-vistas.ps1`
+2. Ejecutar con PowerShell: `.\ConfigViews.ps1`
 3. Si hay error de permisos ejecutar:
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -35,7 +35,7 @@ Windows aplica vistas predeterminadas según el tipo de carpeta asignado. No per
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### ✨ Features
 
@@ -49,7 +49,7 @@ Windows aplica vistas predeterminadas según el tipo de carpeta asignado. No per
 ### 🚀 Usage
 
 1. Edit `$rootPath` in the script with your desired path
-2. Run with PowerShell: `.\configure-views.ps1`
+2. Run with PowerShell: `.\ConfigViews.ps1`
 3. If permission error occurs, run:
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
