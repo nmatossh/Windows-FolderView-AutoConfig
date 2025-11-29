@@ -4,7 +4,7 @@ PowerShell script que configura automáticamente las vistas de carpetas en Windo
 
 ---
 
-## Español
+Español
 
 ### ✨ Características
 
@@ -35,7 +35,7 @@ Windows aplica vistas predeterminadas según el tipo de carpeta asignado. No per
 
 ---
 
-## English
+English
 
 ### ✨ Features
 
