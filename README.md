@@ -12,8 +12,8 @@ PowerShell script que configura automáticamente las vistas de carpetas en Windo
 - Detecta tipos de archivos predominantes (imágenes, audio, etc.)
 - Crea archivos `desktop.ini` para definir tipo de carpeta
 - Aplica vistas predeterminadas según contenido:
-  - **📷 Pictures**: Carpetas con >50% archivos de imagen (.jpg, .png, .gif, etc.)
-  - **🎵 Music**: Carpetas con >50% archivos de audio (.mp3, .flac, .ape, etc.)
+- **📷 Pictures**: Carpetas con >50% archivos de imagen (.jpg, .png, .gif, etc.)
+- **🎵 Music**: Carpetas con >50% archivos de audio (.mp3, .flac, .ape, etc.)
 
 ### 🚀 Uso
 
